@@ -1,0 +1,1 @@
+{"MPNAME": "TESTER", "MPTXP": 0, "MPHP": 125, "MPMHP": 125, "MPEXP": 0, "MPWeapon": "Iron Sword", "MPArmor": "Iron Splint Armor", "MPSTR": 0, "MPARC": 0, "FRES": 0, "IRES": 0, "ARES": 0, "ERES": 0, "PRES": 0, "gold": 0, "KC": 0}
